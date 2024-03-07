@@ -1,3 +1,3 @@
 # ListaTarefasMVC
 
-### EM progresso... ⚙️🛠️
+### Em progresso... ⚙️🛠️
